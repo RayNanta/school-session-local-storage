@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install bootstrap --save`
+In order to install bootstrap
+
+### `npm install jquery popper.js`
+In order to install jQuery and Popper.js
+
+### `npm install react-router-dom --save`
+In order to install react router dom
+
 ### `npm start`
 
 Runs the app in the development mode.\
